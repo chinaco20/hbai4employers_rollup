@@ -177,7 +177,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3657,14 +3657,15 @@ input, select, textarea {
 			}
 			
 			.numbered-table ul {
-				color: navajowhite;
+
 				margin-left: 0em;
 				margin-bottom: 0em;
+				margin-top: 0em;
 				line-height: 120%;
 			}
 			
 			.numbered-table ul > li {
-				color: #ff9966;
+
 				line-height: 120%;
 				margin-left: .5em;
 				margin-bottom: 0em;
