@@ -302,6 +302,11 @@ input, select, textarea {
 			margin: 3em 0;
 		}
 
+		hr.mega {
+			border-bottom: solid 3px Teal;
+
+		}
+
 	.align-left {
 		text-align: left;
 	}
@@ -3675,6 +3680,7 @@ input, select, textarea {
 		
 		td.downloads a {
 			color:rgb(3, 185, 3);
+			color: teal;
 			border-bottom:transparent;
 		}
 		
@@ -3683,7 +3689,7 @@ input, select, textarea {
 		}
 
 		br.major {
-			border-bottom: solid 3px #62d4e5;
+			border-bottom: solid 3px teal;
 			display: inline-block;
 			width: 100%;
 			margin: 0 0 2em 0;
